@@ -1,3 +1,4 @@
 First name: Hanwen
 Last name: Jin
-Education: Northeastern University
+Major: computer science and mathematics
+Expected graduation year: 2027
