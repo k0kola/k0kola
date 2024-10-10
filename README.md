@@ -1,5 +1,7 @@
 ### Hi there
 
+My name is Nicole, a second year majoring in computer science and mathematics at Northeastern University. My interest lies in software development, algebra, and number theory.
+
 <!--
 **k0kola/k0kola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
