@@ -1,6 +1,6 @@
 ### Hi there
 
-My name is Hanwen, a second-year majoring in Computer Science and Mathematics at Northeastern University. I am currently seeking a software engineering co-op from July to December 2025. Please reach me at jin.han@northeastern.edu! ;)))
+My name is Hanwen, a second-year majoring in Computer Science and Mathematics at Northeastern University. I am currently seeking a data analyst and actuary co-op from January to June 2026. Feel free to reach me at jin.han@northeastern.edu! ;)))
 
 <!--
 **k0kola/k0kola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
