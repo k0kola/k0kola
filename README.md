@@ -1,6 +1,6 @@
 ### Hi there
 
-My name is Hanwen, a second-year majoring in Computer Science and Mathematics at Northeastern University. I am currently seeking a data analyst and actuary co-op from January to June 2026. Feel free to reach me at jin.han@northeastern.edu! ;)))
+My name is Hanwen, a third-year student majoring in Computer Science and Mathematics at Northeastern University. I love numbers, patterns, and figures. They form a fantastic language of the world - Mathematics. I am learning my second SOA Exam - Financial Mathematics, and looking for opportunities to become an actuary. Feel free to reach me at jin.han@northeastern.edu! ;)))
 
 <!--
 **k0kola/k0kola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
